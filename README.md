@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikita</h1>
-<h3 align="center">I'm 1C developer. My speciality is Accounting and Trade. My projects here are improvements for typical configurations of 1C. All projects you can see on Infostart.</h3>
+<h3 align="center">I'm 1C developer. My speciality is Accounting and Trade. My projects are improvements for typical configurations of 1C. All projects you can see on Infostart.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oxotka&label=Profile%20views&color=0e75b6&style=flat" alt="oxotka" /> </p>
 
