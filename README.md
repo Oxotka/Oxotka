@@ -25,5 +25,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oxotka&show_icons=true&locale=en&layout=compact" alt="oxotka" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oxotka&show_icons=true&locale=en" alt="oxotka" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oxotka&" alt="oxotka" /></p>
