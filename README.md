@@ -1,7 +1,5 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=oxotka&label=Profile%20views&color=0e75b6&style=flat" alt="oxotka" /> </p>
-<p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi!👋I%27m%20Nikita&height=100&section=header"/>
-</p>
+
+<p><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi!👋I%27m%20Nikita&height=120&section=header"/></p>
 <h3 align="left">I'm 1C developer. My speciality is Accounting and Trade</h3>
 
 - 👨‍💻 All of my projects are available at <a href="https://infostart.ru/profile/237528/public">Infostart</a>
@@ -26,18 +24,15 @@
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-     
 </p>
-
+<a href="https://www.buymeacoffee.com/aripovn" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
+<p><img src="https://github.com/Oxotka/Oxotka/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/></p>
+
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oxotka&show_icons=true&locale=en&layout=compact" alt="oxotka" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=oxotka&show_icons=true&locale=en" alt="oxotka" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oxotka" alt="oxotka" /></a> </p>
-
-
-<a href="https://www.buymeacoffee.com/aripovn" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
 <p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
