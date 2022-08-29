@@ -12,6 +12,8 @@
 
 - 📫 How to reach me **aripovn@gmail.com**
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
+
 <h3 align="left">🚀  Some Tools I Have Used and Learned:</h3>
 <p align="left"> 
 <a href="https://v8.1c.ru" target="_blank"> <img src="https://github.com/Oxotka/Oxotka/blob/main/logo1cm.png" alt="1C" width="40" height="40"/> </a>
