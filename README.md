@@ -6,7 +6,7 @@
   
 - 👨‍💻 Most of my projects are available at <a href="https://infostart.ru/profile/237528/public">Infostart</a>
 
-- 🌱 Learning more about and studying: React, python and Xcode
+- 🌱 Learning more about and studying: Flutter+Dart, React and python
 
 - 💡 I like to explore new technologies.
 
@@ -17,6 +17,8 @@
 <h3 align="left">🚀  Some Tools I Have Used and Learned:</h3>
 <p align="left"> 
 <a href="https://v8.1c.ru" target="_blank"> <img src="https://github.com/Oxotka/Oxotka/blob/main/logo1cm.png" alt="1C" width="40" height="40"/> </a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="dart" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" width="40" height="40"/>
