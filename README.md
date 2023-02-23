@@ -3,8 +3,6 @@
 <h3 align="left">I'm 1C developer. My speciality is Accounting and Trade</h3>
 
 - 🏢 I’m currently working full-time
-  
-- 👨‍💻 Most of my projects are available at <a href="https://infostart.ru/profile/237528/public">Infostart</a>
 
 - 🌱 Learning more about and studying: Flutter+Dart, React and python
 
