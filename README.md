@@ -1,18 +1,26 @@
-<p><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi!👋I%27m%20Nikita&height=120&section=header"/></p>
+<p><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/></p>
 
-<h3 align="left">I'm 1C developer. My speciality is Accounting and Trade</h3>
+<h2 align="left">Меня зовут Никита - разработчик 1С</h2>
 
-- 🏢 I’m currently working full-time
+- 🏢 Сейчас работаю на полной занятности
 
-- 🌱 Learning more about and studying: Flutter+Dart, React and python
+- 🌱 В свободное время изучаю Flutter+Dart, React и python
 
-- 💡 I like to explore new technologies.
+- 💡 Люблю изучать новые технологии
 
-- 📫 How to reach me **aripovn@gmail.com**
+- 📫 Связаться со мной можно по **aripovn@gmail.com**
+
+- 📣 Мои выступления:
+  * [1С:DevCon - Инструменты и процессы разработки 1С:Бухгалтерии](https://youtu.be/GeLbvkZuCi0?si=TQND39-mfHEr1gfH)
+  * [1С:TestCon - Полезные инструменты и обработки](https://youtu.be/SDeysQc0K9w?si=qp0t5xbTvB_VbBla)
+  * [1С:DevCon - Agile & 1C: практические аспекты](https://youtu.be/Ux1oTD6Xmy4?si=uPzWIK80DkS2xzZt)
+  * [Infostart-shorts - Про прототипирование](https://youtube.com/shorts/PH-b4ex0fCw?si=t4uq06h8OmiSGQey)
+  * [Infostart-shorts - Про Канбан](https://youtube.com/shorts/PH-b4ex0fCw?si=oDfywODiQom2TE8s)
+
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
 
-<h3 align="left">🚀  Some Tools I Have Used and Learned:</h3>
+<h3 align="left">🚀  Инструменты, которые я использую и изучаю:</h3>
 <p align="left"> 
 <a href="https://v8.1c.ru" target="_blank"> <img src="https://github.com/Oxotka/Oxotka/blob/main/logo1cm.png" alt="1C" width="40" height="40"/> </a>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/>
@@ -32,14 +40,14 @@
 
 <a href="https://www.buymeacoffee.com/aripovn" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
-<h2> 📈 My GitHub History!</h2>
+<h2> 📈 Моя история GitHub</h2>
 <p><img src="https://github.com/Oxotka/Oxotka/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/></p>
 
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oxotka&show_icons=true&locale=en&layout=compact" alt="oxotka" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=oxotka&show_icons=true&locale=en" alt="oxotka" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oxotka" alt="oxotka" /></a> </p>
 
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+<h3 align="left">🫶 Поставьте звездочку какому-нибудь репозиторию 🫶</h3>
 
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
