@@ -1,16 +1,16 @@
 <p><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/></p>
 
-<h2 align="left">Меня зовут Никита - разработчик 1С</h2>
+<h2 align="left">Никита Арипов - разработчик 1С</h2>
 
 - 🏢 Сейчас работаю на полной занятности
 
 - 🌱 В свободное время изучаю Flutter+Dart, React и python
 
-- 💡 Люблю изучать новые технологии
+- 💡 Люблю исследовать новые технологии
 
 - 📫 Связаться со мной можно по **aripovn@gmail.com**
 
-- 📣 Мои выступления:
+- 📣 Мои выступления на конференциях:
   * [1С:DevCon - Инструменты и процессы разработки 1С:Бухгалтерии](https://youtu.be/GeLbvkZuCi0?si=TQND39-mfHEr1gfH)
   * [1С:TestCon - Полезные инструменты и обработки](https://youtu.be/SDeysQc0K9w?si=qp0t5xbTvB_VbBla)
   * [1С:DevCon - Agile & 1C: практические аспекты](https://youtu.be/Ux1oTD6Xmy4?si=uPzWIK80DkS2xzZt)
@@ -48,7 +48,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=oxotka&show_icons=true&locale=en" alt="oxotka" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oxotka" alt="oxotka" /></a> </p>
 
-<h3 align="left">🫶 Поставьте звездочку какому-нибудь репозиторию 🫶</h3>
+<h3 align="left">🫶 Поставьте 🌟🌟🌟 какому-нибудь репозиторию 🫶</h3>
 
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
