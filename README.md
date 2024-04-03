@@ -18,6 +18,11 @@
   * [Infostart-shorts - Про Канбан](https://youtube.com/shorts/PH-b4ex0fCw?si=oDfywODiQom2TE8s)
 
 
+<div id="infostart_posts">
+
+</div>
+
+
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
