@@ -20,6 +20,32 @@
 - 📃 Мои публикации на Инфостарте:
 <div id="infostart_posts">
 
+> <img src="https://infostart.ru/upload/iblock/1ad/1adc447398bcca043ac26a614c284022.png?1f7ea663-6f94-4ba0-ba01-1db5272ed698" width="96" align="left"> 
+> <h4 style="color: white;"><a href="https://infostart.ru/1c/tools/2071624/">1Codemeter - cбор метрик по изменениям в коде</a></h4>
+> <small>Собираем и выводим в красивом виде метрики по добавленным и удаленным строчкам кода.</small>  
+> <br clear="left">
+>
+> | :star: +28 |  :calendar: 26.03.2024 |  :speech_balloon: 10 |  :eyes: 1761 |
+>  |-|-|-|-|  
+
+
+> <img src="https://infostart.ru/upload/iblock/785/785b3dd1347d7c785315cddadea84afe.JPG?b8cf18ed-750e-4859-bcef-a3d2cc3c0cf2" width="96" align="left"> 
+> <h4 style="color: white;"><a href="https://infostart.ru/1c/articles/2008914/">Шаблоны новых объектов 1С для 1С:Бухгалтерии предприятия</a></h4>
+> <small>Используются для создания новых объектов в конфигурации, чтобы не забыть, что нужно сделать.</small>  
+> <br clear="left">
+>
+> | :star: +99 |  :calendar: 28.12.2023 |  :speech_balloon: 11 |  :eyes: 4870 |
+>  |-|-|-|-|  
+
+
+> <img src="https://infostart.ru/upload/iblock/885/885dd42f1131047e3aa69e9527424424.png?1e24daf4-25c9-4876-a438-64dcec388a16" width="96" align="left"> 
+> <h4 style="color: white;"><a href="https://infostart.ru/1c/articles/1558366/">Стек технологий для 1С</a></h4>
+> <small>Стек технологий, которые могут быть полезны разработчику на 1С и около 1С. По каждой технологии постарался объяснить, зачем она нужна и с чего начать изучение, если заинтересует.</small>  
+> <br clear="left">
+>
+> | :star: +464 |  :calendar: 29.11.2021 |  :speech_balloon: 63 |  :eyes: 43893 |
+>  |-|-|-|-|  
+
 </div>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
