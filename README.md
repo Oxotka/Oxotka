@@ -17,19 +17,6 @@
   * [Infostart-shorts - Про прототипирование](https://youtube.com/shorts/_km2yyuTS9M?si=Qd8QBu03S4lz3cgC)
   * [Infostart-shorts - Про Канбан](https://youtube.com/shorts/PH-b4ex0fCw?si=oDfywODiQom2TE8s)
 
-- 📃 Мои публикации на Инфостарте:
-<div id="infostart_posts">
-* [1Codemeter - cбор метрик по изменениям в коде](https://infostart.ru/1c/tools/2071624/)
-
-
-* [Шаблоны новых объектов 1С для 1С:Бухгалтерии предприятия](https://infostart.ru/1c/articles/2008914/)
-
-
-* [Стек технологий для 1С](https://infostart.ru/1c/articles/1558366/)
-
-
-</div>
-
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <h3 align="left">🚀  Инструменты, которые я использую и изучаю:</h3>
