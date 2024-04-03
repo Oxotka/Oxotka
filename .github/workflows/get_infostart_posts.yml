@@ -1,6 +1,5 @@
 name: Infostart
 on:
-  schedule: [{cron: "0 0 * * *"}] # Расписание выполнения. В данном примере - каждый день в 0.00
   workflow_dispatch:
 jobs:
   Update:
