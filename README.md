@@ -17,12 +17,16 @@
   * [Infostart-shorts - Про прототипирование](https://youtube.com/shorts/_km2yyuTS9M?si=Qd8QBu03S4lz3cgC)
   * [Infostart-shorts - Про Канбан](https://youtube.com/shorts/PH-b4ex0fCw?si=oDfywODiQom2TE8s)
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
+- 📃 Мои публикации на Инфостарте:
+<div id="infostart_posts">
 
+</div>
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <h3 align="left">🚀  Инструменты, которые я использую и изучаю:</h3>
 <p align="left"> 
-<a href="https://v8.1c.ru" target="_blank"> <img src="https://github.com/Oxotka/Oxotka/blob/main/logo1cm.png" alt="1C" width="40" height="40"/> </a>
+<a href="https://v8.1c.ru" target="_blank"> <img src="https://github.com/Oxotka/Oxotka/blob/main/src/logo1cm.png" alt="1C" width="40" height="40"/> </a>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="dart" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
