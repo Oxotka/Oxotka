@@ -1,0 +1,16 @@
+name: Infostart
+on:
+  schedule: [{cron: "0 0 * * *"}] # Расписание выполнения. В данном примере - каждый день в 0.00
+  workflow_dispatch:
+jobs:
+  Update:
+    runs-on: ubuntu-latest 
+    permissions:
+        contents: write
+    steps:
+
+      - uses: bayselonarrend/infometrics-articles@1.0
+        with:
+          profile-id: '237528'                  # ID профиля Infostart
+          count: '3'                            # Количество выводимых статей. По умолчанию - 3, Максимум - 10
+          readme-file: './README.md'            # Путь к Readme файлу. По умолчанию - ./README.md (Регистр важен!)
