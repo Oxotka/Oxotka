@@ -8,7 +8,7 @@ jobs:
         contents: write
     steps:
 
-      - uses: bayselonarrend/infometrics-articles@1.0
+      - uses: bayselonarrend/infometrics-articles@1.1
         with:
           profile-id: '237528'                  # ID профиля Infostart
           count: '3'                            # Количество выводимых статей. По умолчанию - 3, Максимум - 10
