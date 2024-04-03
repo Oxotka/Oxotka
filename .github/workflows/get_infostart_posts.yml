@@ -13,3 +13,4 @@ jobs:
           profile-id: '237528'                  # ID профиля Infostart
           count: '3'                            # Количество выводимых статей. По умолчанию - 3, Максимум - 10
           readme-file: './README.md'            # Путь к Readme файлу. По умолчанию - ./README.md (Регистр важен!)
+          template: ./src/infostart_template.tm # Тут - tm.html в корне репозитория
