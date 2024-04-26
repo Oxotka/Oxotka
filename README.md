@@ -11,13 +11,12 @@
 - 📫 Связаться со мной можно по **aripovn@gmail.com**
 
 - 📣 Мои выступления на конференциях:
+  * [Инфостарт - Инструменты и процессы разработки 1С:Бухгалтерии](https://youtu.be/tcZsDj93ey8?si=qtRT4S1_nB8fegqf)
   * [1С:DevCon - Практика проведения Code-review](https://youtu.be/BMAgiz2uEHA)
   * [1С:DevCon - Инструменты и процессы разработки 1С:Бухгалтерии](https://youtu.be/GeLbvkZuCi0?si=TQND39-mfHEr1gfH)
   * [1С:TestCon - Полезные инструменты и обработки](https://youtu.be/SDeysQc0K9w?si=qp0t5xbTvB_VbBla)
   * [1С:DevCon - Agile & 1C: практические аспекты](https://youtu.be/Ux1oTD6Xmy4?si=uPzWIK80DkS2xzZt)
-  * [Infostart-shorts - Про прототипирование](https://youtube.com/shorts/_km2yyuTS9M?si=Qd8QBu03S4lz3cgC)
-  * [Infostart-shorts - Про Канбан](https://youtube.com/shorts/PH-b4ex0fCw?si=oDfywODiQom2TE8s)
-
+    
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <h3 align="left">🚀  Инструменты, которые я использую и изучаю:</h3>
