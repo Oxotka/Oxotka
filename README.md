@@ -35,6 +35,10 @@
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </p>
 
+
+[![committers.top badge](https://user-badge.committers.top/russia/Oxotka.svg)](https://user-badge.committers.top/russia/Oxotka) [![Static Badge](https://img.shields.io/badge/my%20telegram-group-green)](https://t.me/AriN1C) [![GitHub User's stars](https://img.shields.io/github/stars/Oxotka)](https://github.com/Oxotka?tab=repositories&q=&type=&language=&sort=stargazers)
+
+
 <h2> 📈 Моя история GitHub</h2>
 <p><img src="https://github.com/Oxotka/Oxotka/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/></p>
 
