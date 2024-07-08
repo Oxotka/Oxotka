@@ -36,7 +36,7 @@
 </p>
 
 
-[![committers.top badge](https://user-badge.committers.top/russia/Oxotka.svg)](https://user-badge.committers.top/russia/Oxotka) [![Static Badge](https://img.shields.io/badge/my%20telegram-group-green)](https://t.me/AriN1C) [![GitHub User's stars](https://img.shields.io/github/stars/Oxotka)](https://github.com/Oxotka?tab=repositories&q=&type=&language=&sort=stargazers)
+[![committers.top badge](https://user-badge.committers.top/russia/Oxotka.svg)](https://user-badge.committers.top/russia/Oxotka) [![Static Badge](https://img.shields.io/badge/my%20telegram-channel-green)](https://t.me/AriN1C) [![GitHub User's stars](https://img.shields.io/github/stars/Oxotka)](https://github.com/Oxotka?tab=repositories&q=&type=&language=&sort=stargazers)
 
 
 <h2> 📈 Моя история GitHub</h2>
