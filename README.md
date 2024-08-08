@@ -36,7 +36,7 @@
 </p>
 
 
-[![committers.top badge](https://user-badge.committers.top/russia/Oxotka.svg)](https://user-badge.committers.top/russia/Oxotka) [![Static Badge](https://img.shields.io/badge/my%20telegram-channel-blue)](https://t.me/AriN1C) [![Static Badge](https://img.shields.io/badge/infostart-profile-blue)](http://infostart.ru/profile/237528/) ![](https://komarev.com/ghpvc/?username=Oxotka&color=blue) [![GitHub User's stars](https://img.shields.io/github/stars/Oxotka)](https://github.com/Oxotka?tab=repositories&q=&type=&language=&sort=stargazers)
+[![Static Badge](https://img.shields.io/badge/my%20telegram-channel-blue)](https://t.me/AriN1C) [![Static Badge](https://img.shields.io/badge/infostart-profile-blue)](http://infostart.ru/profile/237528/) ![](https://komarev.com/ghpvc/?username=Oxotka&color=blue) [![GitHub User's stars](https://img.shields.io/github/stars/Oxotka?style=flat)](https://github.com/Oxotka?tab=repositories&q=&type=&language=&sort=stargazers) [![committers.top badge](https://user-badge.committers.top/russia/Oxotka.svg)](https://user-badge.committers.top/russia/Oxotka)
 
 
 <h2> 📈 Моя история GitHub</h2>
