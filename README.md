@@ -19,10 +19,10 @@
 📣 Мои выступления на конференциях:
  * [Инфостарт - Код-ревью с помощью ИИ](https://vkvideo.ru/video-42867005_456240512)
  * [Инфостарт - Инструменты и процессы разработки 1С:Бухгалтерии](https://youtu.be/tcZsDj93ey8?si=qtRT4S1_nB8fegqf)
+ * [1C:DevCon - Как собираем метрики в команде разработки](https://m.vkvideo.ru/video-198342647_456239300?from=video)
  * [1С:DevCon - Практика проведения Code-review](https://youtu.be/BMAgiz2uEHA)
  * [1С:DevCon - Инструменты и процессы разработки 1С:Бухгалтерии](https://youtu.be/GeLbvkZuCi0?si=TQND39-mfHEr1gfH)
  * [1С:TestCon - Полезные инструменты и обработки](https://youtu.be/SDeysQc0K9w?si=qp0t5xbTvB_VbBla)
- * [1С:DevCon - Agile & 1C: практические аспекты](https://youtu.be/Ux1oTD6Xmy4?si=uPzWIK80DkS2xzZt)
     
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
 
