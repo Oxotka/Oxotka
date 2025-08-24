@@ -20,6 +20,7 @@
 
 📣 Мои выступления на конференциях:
  * [Инфостарт - Код-ревью с помощью ИИ](https://vkvideo.ru/video-42867005_456240512)
+ * [Инфостарт - Developer Experience: убираем ерунду из процесса разработки](https://www.youtube.com/watch?v=KG9k7UDdg4I)
  * [Инфостарт - Инструменты и процессы разработки 1С:Бухгалтерии](https://youtu.be/tcZsDj93ey8?si=qtRT4S1_nB8fegqf)
  * [1C:DevCon - Как собираем метрики в команде разработки](https://m.vkvideo.ru/video-198342647_456239300?from=video)
  * [1С:DevCon - Практика проведения Code-review](https://youtu.be/BMAgiz2uEHA)
@@ -56,3 +57,4 @@
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
+
