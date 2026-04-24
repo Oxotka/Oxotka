@@ -68,8 +68,6 @@
 <h3>📈 Моя история GitHub</h3>
 <p><img src="https://github.com/Oxotka/Oxotka/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/></p>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=oxotka&title=-Reviews,-PullRequest&theme=flat)
-
 <h3 align="left">🫶 Поставьте 🌟🌟🌟 какому-нибудь репозиторию 🫶</h3>
 
 <p align="left">
