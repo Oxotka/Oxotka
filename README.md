@@ -19,6 +19,7 @@
  * [Шаблоны новых объектов 1С для 1С:Бухгалтерия предприятия](https://github.com/Oxotka/TemplatesNewObject1C)
 
 📣 Мои выступления на конференциях:
+ * [1C:DevCon - Один день из жизни разработчика 1С:Бухгалтерии](https://vkvideo.ru/video-198342647_456239494?t=0s)
  * [Инфостарт - Код-ревью с помощью ИИ](https://vkvideo.ru/video-42867005_456240512)
  * [Инфостарт - Developer Experience: убираем ерунду из процесса разработки](https://www.youtube.com/watch?v=KG9k7UDdg4I)
  * [Инфостарт - Инструменты и процессы разработки 1С:Бухгалтерии](https://youtu.be/tcZsDj93ey8?si=qtRT4S1_nB8fegqf)
