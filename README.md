@@ -1,78 +1,98 @@
-﻿<p><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/></p>
+# Никита Арипов
 
+<p>
+  <a href="https://t.me/AriN1C"><img src="https://img.shields.io/badge/Telegram-канал-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="http://infostart.ru/profile/237528/"><img src="https://img.shields.io/badge/Infostart-профиль-FF6600?style=for-the-badge&logoColor=white"/></a>
+  <a href="https://codereview1c.ru"><img src="https://img.shields.io/badge/Тренажер-Код--ревью%20для%201С-6E40C9?style=for-the-badge&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Oxotka&style=for-the-badge&label=Просмотры&color=0A66C2"/>
+  <a href="https://github.com/Oxotka?tab=repositories&sort=stargazers"><img src="https://img.shields.io/github/stars/Oxotka?style=for-the-badge&label=%D0%97%D0%B2%D0%B5%D0%B7%D0%B4%D1%8B&logo=github&logoColor=white&color=181717"/></a>
+</p>
 
-<h2 align="left">Никита Арипов - разработчик 1С</h2>
+## О себе
 
-[![Static Badge](https://img.shields.io/badge/my%20telegram-channel-blue)](https://t.me/AriN1C) [![Static Badge](https://img.shields.io/badge/infostart-profile-blue)](http://infostart.ru/profile/237528/) ![](https://komarev.com/ghpvc/?username=Oxotka&color=blue) [![GitHub User's stars](https://img.shields.io/github/stars/Oxotka?style=flat)](https://github.com/Oxotka?tab=repositories&q=&type=&language=&sort=stargazers) 
+- Сейчас работаю на полной занятости
+- Люблю исследовать новые технологии
+- Отвечаю за разработку и выпуск 1С:БНКО (Бухгалтерия некоммерческой организации)
+- Разработчик 1С:Бухгалтерии предприятия
 
-🏢 Сейчас работаю на полной занятности
+## Полезное
 
-💡 Люблю исследовать новые технологии
+- [Тренажер: Код-ревью для 1С](https://codereview1c.ru) — практика код-ревью на реальных примерах
+- [Телеграм-канал](https://t.me/+KZSbZ8N_eIA3NmQy) — про разработку в 1С
+- [Стек технологий для 1С](https://github.com/Oxotka/StackTechnologies1C)
+- [Дизайн-гайд для создания форм на 1С](https://github.com/Oxotka/1CDesignGuide)
+- [Шаблоны новых объектов 1С для 1С:Бухгалтерия предприятия](https://github.com/Oxotka/TemplatesNewObject1C)
 
-🛠️ Попробуйте [**Тренажер:Код-ревью для 1С**](https://codereview1c.ru)
+## Стек
 
-🚀 Подписывайтесь на [**Телеграм-канал**](https://t.me/+KZSbZ8N_eIA3NmQy)
+![1С:Предприятие](https://img.shields.io/badge/1С:Предприятие-EE2A23?style=for-the-badge&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+<br/>
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+<br/>
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+<br/>
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-💻 Мои полезные репозитории:
- * [Стек технологий для 1С](https://github.com/Oxotka/StackTechnologies1C)
- * [Дизайн-гайд для создания форм на 1С](https://github.com/Oxotka/1CDesignGuide)
- * [Шаблоны новых объектов 1С для 1С:Бухгалтерия предприятия](https://github.com/Oxotka/TemplatesNewObject1C)
+## Выступления на конференциях
 
-📣 Мои выступления на конференциях:
- * [1C:DevCon - Один день из жизни разработчика 1С:Бухгалтерии](https://vkvideo.ru/video-198342647_456239494?t=0s)
- * [Инфостарт - Код-ревью с помощью ИИ](https://vkvideo.ru/video-42867005_456240512)
- * [Инфостарт - Developer Experience: убираем ерунду из процесса разработки](https://www.youtube.com/watch?v=KG9k7UDdg4I)
- * [Инфостарт - Инструменты и процессы разработки 1С:Бухгалтерии](https://youtu.be/tcZsDj93ey8?si=qtRT4S1_nB8fegqf)
- * [1C:DevCon - Как собираем метрики в команде разработки](https://m.vkvideo.ru/video-198342647_456239300?from=video)
- * [1С:DevCon - Практика проведения Code-review](https://youtu.be/BMAgiz2uEHA)
- * [1С:DevCon - Инструменты и процессы разработки 1С:Бухгалтерии](https://youtu.be/GeLbvkZuCi0?si=TQND39-mfHEr1gfH)
- * [1С:TestCon - Полезные инструменты и обработки](https://youtu.be/SDeysQc0K9w?si=qp0t5xbTvB_VbBla)
-    
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
-
-<h3 align="left">🚀 Мои инструменты</h3>
-
-<p align="left">
-<table border="0" cellpadding="10" cellspacing="0" align="left">
+<table>
   <tr>
-    <td align="center"><a href="https://v8.1c.ru" target="_blank"><img src="https://github.com/Oxotka/Oxotka/blob/main/src/logo1cm.png" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://dart.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://flutter.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://react.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://nodejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"/></a></td>
+    <td width="25%" valign="top" align="center">
+      <a href="https://vkvideo.ru/video-198342647_456239494?t=0s"><img src="src/talks/devcon-day.jpg" width="100%"/></a><br/>
+      <sub><b>1C:DevCon · Один день из жизни разработчика 1С:Бухгалтерии</b></sub>
+    </td>
+    <td width="25%" valign="top" align="center">
+      <a href="https://vkvideo.ru/video-42867005_456240512"><img src="src/talks/infostart-ai-review.jpg" width="100%"/></a><br/>
+      <sub><b>Инфостарт · Код-ревью с помощью ИИ</b></sub>
+    </td>
+    <td width="25%" valign="top" align="center">
+      <a href="https://www.youtube.com/watch?v=KG9k7UDdg4I"><img src="https://img.youtube.com/vi/KG9k7UDdg4I/mqdefault.jpg" width="100%"/></a><br/>
+      <sub><b>Инфостарт · Developer Experience: убираем ерунду из процесса разработки</b></sub>
+    </td>
+    <td width="25%" valign="top" align="center">
+      <a href="https://youtu.be/tcZsDj93ey8"><img src="https://img.youtube.com/vi/tcZsDj93ey8/mqdefault.jpg" width="100%"/></a><br/>
+      <sub><b>Инфостарт · Инструменты и процессы разработки 1С:Бухгалтерии</b></sub>
+    </td>
   </tr>
   <tr>
-    <td align="center"><a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://www.jenkins.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://www.sonarqube.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://www.postman.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://prometheus.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://grafana.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="40" height="40"/></a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://about.gitlab.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://developer.apple.com/xcode/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://chat.openai.com/" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/chatgpt-icon.png" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://www.figma.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/></a></td>
+    <td width="25%" valign="top" align="center">
+      <a href="https://m.vkvideo.ru/video-198342647_456239300?from=video"><img src="src/talks/devcon-metrics.jpg" width="100%"/></a><br/>
+      <sub><b>1C:DevCon · Как собираем метрики в команде разработки</b></sub>
+    </td>
+    <td width="25%" valign="top" align="center">
+      <a href="https://youtu.be/BMAgiz2uEHA"><img src="https://img.youtube.com/vi/BMAgiz2uEHA/mqdefault.jpg" width="100%"/></a><br/>
+      <sub><b>1C:DevCon · Практика проведения Code-review</b></sub>
+    </td>
+    <td width="25%" valign="top" align="center">
+      <a href="https://youtu.be/GeLbvkZuCi0"><img src="https://img.youtube.com/vi/GeLbvkZuCi0/mqdefault.jpg" width="100%"/></a><br/>
+      <sub><b>1C:DevCon · Инструменты и процессы разработки 1С:Бухгалтерии</b></sub>
+    </td>
+    <td width="25%" valign="top" align="center">
+      <a href="https://youtu.be/SDeysQc0K9w"><img src="https://img.youtube.com/vi/SDeysQc0K9w/mqdefault.jpg" width="100%"/></a><br/>
+      <sub><b>1C:TestCon · Полезные инструменты и обработки</b></sub>
+    </td>
   </tr>
 </table>
-</p>
 
-<br clear="all"/>
+## Активность
 
-<h3>📈 Моя история GitHub</h3>
-<p><img src="https://github.com/Oxotka/Oxotka/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/></p>
+<img src="https://raw.githubusercontent.com/Oxotka/Oxotka/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 
-<h3 align="left">🫶 Поставьте 🌟🌟🌟 какому-нибудь репозиторию 🫶</h3>
-
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-</p>
-
-
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=graywhite)](https://github.com/piyushsuthar/github-readme-quotes)
