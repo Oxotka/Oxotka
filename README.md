@@ -2,9 +2,8 @@
 
 <p>
   <a href="https://t.me/AriN1C"><img src="https://img.shields.io/badge/Telegram-канал-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="http://infostart.ru/profile/237528/"><img src="https://img.shields.io/badge/Infostart-профиль-FF6600?style=for-the-badge&logoColor=white"/></a>
+  <a href="https://landscape1c.ru"><img src="https://img.shields.io/badge/Проект-Ландшафт%20технологий%201С-FF6600?style=for-the-badge&logoColor=white"/></a>
   <a href="https://codereview1c.ru"><img src="https://img.shields.io/badge/Тренажер-Код--ревью%20для%201С-6E40C9?style=for-the-badge&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Oxotka&style=for-the-badge&label=Просмотры&color=0A66C2"/>
   <a href="https://github.com/Oxotka?tab=repositories&sort=stargazers"><img src="https://img.shields.io/github/stars/Oxotka?style=for-the-badge&label=%D0%97%D0%B2%D0%B5%D0%B7%D0%B4%D1%8B&logo=github&logoColor=white&color=181717"/></a>
 </p>
 
@@ -17,7 +16,7 @@
 
 ## Полезное
 
-- [Ландшафт технологий 1С](https://landscape1c.ru) — Интерактивная карта инструментов 1С и около 1С
+- [Ландшафт технологий 1С](https://landscape1c.ru) — интерактивная карта инструментов 1С и около 1С
 - [Тренажер: Код-ревью для 1С](https://codereview1c.ru) — практика код-ревью на реальных примерах
 - [Телеграм-канал](https://t.me/+KZSbZ8N_eIA3NmQy) — про разработку в 1С
 - [Стек технологий для 1С](https://github.com/Oxotka/StackTechnologies1C)
