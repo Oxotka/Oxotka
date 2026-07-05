@@ -7,16 +7,16 @@
   <a href="https://github.com/Oxotka?tab=repositories&sort=stargazers"><img src="https://img.shields.io/github/stars/Oxotka?style=for-the-badge&label=%D0%97%D0%B2%D0%B5%D0%B7%D0%B4%D1%8B&logo=github&logoColor=white&color=181717"/></a>
 </p>
 
-<a href="https://gitfut.com/Oxotka"><img src="https://gitfut.com/Oxotka.png" alt="GitFut: карточка игрока 93 ICON" align="left" width="250" hspace="16"/></a>
+<a href="https://gitfut.com/Oxotka"><img src="https://gitfut.com/Oxotka.png" alt="GitFut: карточка игрока 93 ICON" align="left" width="300" hspace="16"/></a>
 
-## О себе
+### О себе
 
 - Not looking for a job
 - Слежу за тем, что происходит за пределами экосистемы 1С
 - Развиваю и выпускаю 1С:Бухгалтерия некоммерческой организации
 - Участвую в разработке 1С:Бухгалтерия предприятия
 
-## Полезное
+### Полезное
 
 - [Ландшафт технологий 1С](https://landscape1c.ru) — интерактивная карта инструментов 1С и около 1С
 - [Тренажер: Код-ревью для 1С](https://codereview1c.ru) — практика код-ревью на реальных примерах
