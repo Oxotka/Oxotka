@@ -58,37 +58,43 @@
 
 <table>
   <tr>
-    <td width="25%" valign="top" align="center">
+    <td width="33.33%" valign="top" align="center">
+      <a href="https://www.youtube.com/watch?v=EvpyPrntVrc"><img src="https://img.youtube.com/vi/EvpyPrntVrc/mqdefault.jpg" width="100%"/></a><br/>
+      <sub><b>Инфостарт · Стек технологий для 1С</b></sub>
+    </td>
+    <td width="33.33%" valign="top" align="center">
       <a href="https://vkvideo.ru/video-198342647_456239494?t=0s"><img src="src/talks/devcon-day.jpg" width="100%"/></a><br/>
       <sub><b>1C:DevCon · Один день из жизни разработчика 1С:Бухгалтерии</b></sub>
     </td>
-    <td width="25%" valign="top" align="center">
+    <td width="33.33%" valign="top" align="center">
       <a href="https://vkvideo.ru/video-42867005_456240512"><img src="src/talks/infostart-ai-review.jpg" width="100%"/></a><br/>
       <sub><b>Инфостарт · Код-ревью с помощью ИИ</b></sub>
     </td>
-    <td width="25%" valign="top" align="center">
+  </tr>
+  <tr>
+    <td width="33.33%" valign="top" align="center">
       <a href="https://www.youtube.com/watch?v=KG9k7UDdg4I"><img src="https://img.youtube.com/vi/KG9k7UDdg4I/mqdefault.jpg" width="100%"/></a><br/>
       <sub><b>Инфостарт · Developer Experience: убираем ерунду из процесса разработки</b></sub>
     </td>
-    <td width="25%" valign="top" align="center">
+    <td width="33.33%" valign="top" align="center">
       <a href="https://youtu.be/tcZsDj93ey8"><img src="https://img.youtube.com/vi/tcZsDj93ey8/mqdefault.jpg" width="100%"/></a><br/>
       <sub><b>Инфостарт · Инструменты и процессы разработки 1С:Бухгалтерии</b></sub>
     </td>
-  </tr>
-  <tr>
-    <td width="25%" valign="top" align="center">
+    <td width="33.33%" valign="top" align="center">
       <a href="https://m.vkvideo.ru/video-198342647_456239300?from=video"><img src="src/talks/devcon-metrics.jpg" width="100%"/></a><br/>
       <sub><b>1C:DevCon · Как собираем метрики в команде разработки</b></sub>
     </td>
-    <td width="25%" valign="top" align="center">
+  </tr>
+  <tr>
+    <td width="33.33%" valign="top" align="center">
       <a href="https://youtu.be/BMAgiz2uEHA"><img src="https://img.youtube.com/vi/BMAgiz2uEHA/mqdefault.jpg" width="100%"/></a><br/>
       <sub><b>1C:DevCon · Практика проведения Code-review</b></sub>
     </td>
-    <td width="25%" valign="top" align="center">
+    <td width="33.33%" valign="top" align="center">
       <a href="https://youtu.be/GeLbvkZuCi0"><img src="https://img.youtube.com/vi/GeLbvkZuCi0/mqdefault.jpg" width="100%"/></a><br/>
       <sub><b>1C:DevCon · Инструменты и процессы разработки 1С:Бухгалтерии</b></sub>
     </td>
-    <td width="25%" valign="top" align="center">
+    <td width="33.33%" valign="top" align="center">
       <a href="https://youtu.be/SDeysQc0K9w"><img src="https://img.youtube.com/vi/SDeysQc0K9w/mqdefault.jpg" width="100%"/></a><br/>
       <sub><b>1C:TestCon · Полезные инструменты и обработки</b></sub>
     </td>
